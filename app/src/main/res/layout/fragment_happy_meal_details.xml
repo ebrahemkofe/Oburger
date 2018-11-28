@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/MealName"
         android:textSize="25sp"
-        android:textColor="@color/black"
+        android:textColor="#000"
         android:textStyle="bold"
         android:layout_margin="10dp"
         />
@@ -38,7 +38,7 @@
             android:textSize="25sp"
             android:layout_margin="10dp"
             android:textStyle="bold"
-            android:textColor="@color/black"
+            android:textColor="#000"
             />
         <TextView
             android:layout_width="0dp"
@@ -48,7 +48,7 @@
             android:textSize="15sp"
             android:layout_margin="10dp"
             android:textStyle="bold"
-            android:textColor="@color/black" />
+            android:textColor="#000" />
     </LinearLayout>
 
     <LinearLayout
@@ -66,7 +66,7 @@
             android:textSize="25sp"
             android:layout_margin="10dp"
             android:textStyle="bold"
-            android:textColor="@color/black"
+            android:textColor="#000"
             />
         <TextView
             android:layout_width="0dp"
@@ -76,7 +76,7 @@
             android:textSize="15sp"
             android:layout_margin="10dp"
             android:textStyle="bold"
-            android:textColor="@color/black" />
+            android:textColor="#000" />
 
     </LinearLayout>
 
